@@ -1,0 +1,46 @@
+#first-face {
+  background-image: url('../assets/images/RobertJohnson.png');
+  background-position: center top;
+}
+
+#second-face {
+  background-image: url('../assets/images/RicheyManic.jpg');
+}
+
+#third-face {
+  background-image: url('../assets/images/JanisJoplin1.jpg');
+  background-position: center top;
+}
+
+#fourth-face {
+  background-image: url('../assets/images/BrianJones.jpg');
+}
+
+#fifth-face {
+  background-image: url('../assets/images/AmyWinehouse1.jpg');
+  background-position: center top;
+}
+
+#sixth-face {
+  background-image: url('../assets/images/JimMorisson1.jpg');
+}
+
+#seventh-face {
+  background-image: url('../assets/images/JimiHendrix.jpg');
+}
+
+#eighth-face {
+  background-image: url('../assets/images/KurtKobein1.jpg');
+}
+
+#nineth-face {
+  background-image: url('../assets/images/RonMcKernan.png');
+}
+
+#tenth-face {
+  background-image: url('../assets/images/D-Boon.jpg');
+}
+
+#eleventh-face {
+  background-image: url('../assets/images/ChrisBell1.jpg');
+}
